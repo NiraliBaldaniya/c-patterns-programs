@@ -21,3 +21,11 @@ int main(){
        
     return 0;
 }
+
+//output:
+//Enter the number of rows: 5
+//1
+//01
+//010
+//1010
+//01010
